@@ -1,0 +1,9 @@
+1、pycharm安装-几种激活方式（常用激活码）
+2、新建项目-配置解释器
+3、安装模块
+4、设置编码(Editor-File encoding-UTF-8)
+5、设置项目头（Editor-File and Code Templates）
+6、确定绝对地址（.py右键菜单Copy path复制到编辑环境或show in explore）
+7、快速定位（Ctrl+点击对象）
+8、# TODO 记录要做的事情（长期开发定位处）
+9、Debug
